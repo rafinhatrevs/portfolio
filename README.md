@@ -20,7 +20,7 @@ Praticando Front End: Challenge Portfólio
 Este projeto é um portfólio que apresenta uma visão completa sobre mim, incluindo minhas habilidades, hobbies, formação acadêmica
 e projetos desenvolvidos ao longo da minha trajetória. Aqui, você poderá conhecer melhor meu perfil, explorar as tecnologias e
 ferramentas com as quais trabalho, além de conferir os projetos que já criei. Também disponibilizo um formulário de contato para
-facilitar a comunicação.
+facilitar a comunicação. Projeto desenvolvido para o desafio do programa ONE.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
